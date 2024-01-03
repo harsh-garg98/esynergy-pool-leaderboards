@@ -1,0 +1,25 @@
+{
+  "PlayerStats": [
+    {
+      "id": 1,
+      "name": "Harsh",
+      "played": 10,
+      "won": 10,
+      "lost": 0
+    },
+    {
+      "id": 2,
+      "name": "Ayo",
+      "played": 10,
+      "won": 5,
+      "lost": 5
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "played": 10,
+      "won": 0,
+      "lost": 10
+    }
+  ]
+}
